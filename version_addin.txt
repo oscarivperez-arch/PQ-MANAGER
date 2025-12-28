@@ -1,6 +1,7 @@
-VERSION=1.0.0
+VERSION=1.1.0
 FECHA=2026-12-27
 MENSAJE=Nueva versión disponible con mejoras y correcciones.
 
 URL=https://tudominio.com/PQ_Manager.xlam
+
 
